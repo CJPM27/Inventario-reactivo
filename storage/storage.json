@@ -1,0 +1,292 @@
+{
+   "inventario": [
+      {
+         "producto": "Zapatillas sin cordones",
+         "categoria": "Botas",
+         "modelo": "Iconic",
+         "talla": "40",
+         "marca": "Tommy Hilfiger",
+         "cantidad": 12,
+         "precio": 28
+      },
+      {
+         "producto": "Bota Deportiva",
+         "categoria": "Botas",
+         "modelo": "Air Max",
+         "talla": "40",
+         "marca": "Nike",
+         "cantidad": 23,
+         "precio": 40
+      },
+      {
+         "producto": "Nike Dunk Low Retro",
+         "categoria": "Botas",
+         "modelo": "Retro",
+         "talla": "38",
+         "marca": "Nike",
+         "cantidad": 20,
+         "precio": 38
+      },
+      {
+         "producto": "Nike Pegasus FlyEase",
+         "categoria": "Botas",
+         "modelo": "Pegasus",
+         "talla": "42",
+         "marca": "Nike",
+         "cantidad": 14,
+         "precio": 42
+      },
+      {
+         "producto": "LeBron Witness 7",
+         "categoria": "Botas",
+         "modelo": "LeBron",
+         "talla": "42",
+         "marca": "Nike",
+         "cantidad": 12,
+         "precio": 45
+      },
+      {
+         "producto": "Nike Air",
+         "categoria": "Botas",
+         "modelo": "VaporMax",
+         "talla": "42",
+         "marca": "Nike",
+         "cantidad": 15,
+         "precio": 45
+      },
+      {
+         "producto": "Air Jordan 5 Retro",
+         "categoria": "Botas",
+         "modelo": "Jordan",
+         "talla": "40",
+         "marca": "Nike",
+         "cantidad": 18,
+         "precio": 38
+      },
+      {
+         "producto": "Ultraboost light Running",
+         "categoria": "Botas",
+         "modelo": "Ultraboost",
+         "talla": "40",
+         "marca": "Adiddas",
+         "cantidad": 13,
+         "precio": 30
+      },
+      {
+         "producto": "Superstar Shoes",
+         "categoria": "Botas",
+         "modelo": "Superstar",
+         "talla": "38",
+         "marca": "Adiddas",
+         "cantidad": 20,
+         "precio": 25
+      },
+      {
+         "producto": "Gazelle Shoes",
+         "categoria": "Botas",
+         "modelo": "Gazelle",
+         "talla": "40",
+         "marca": "Adiddas",
+         "cantidad": 15,
+         "precio": 25
+      },
+      {
+         "producto": "Botas Increibles",
+         "categoria": "Botas",
+         "modelo": "AAA",
+         "talla": "38",
+         "marca": "Nike",
+         "cantidad": 20,
+         "precio": 30
+      },
+      {
+         "producto": "Franela de Entrenamiento",
+         "categoria": "Franela",
+         "modelo": "Esentials",
+         "talla": "M",
+         "marca": "Addidas",
+         "cantidad": 30,
+         "precio": 13
+      },
+      {
+         "producto": "Polo Piqué",
+         "categoria": "Franela",
+         "modelo": "Rojo",
+         "talla": "M",
+         "marca": "Tommy Hilfiger",
+         "cantidad": 10,
+         "precio": 22
+      },
+      {
+         "producto": "Polo Piqué",
+         "categoria": "Franela",
+         "modelo": "Gris",
+         "talla": "S",
+         "marca": "Tommy Hilfiger",
+         "cantidad": 10,
+         "precio": 20
+      },
+      {
+         "producto": "Vestido Midi manga larga",
+         "categoria": "Franela",
+         "modelo": "Azul",
+         "talla": "S",
+         "marca": "Alfredo Martinez",
+         "cantidad": 5,
+         "precio": 30
+      },
+      {
+         "producto": "Vestido Largo",
+         "categoria": "Franela",
+         "modelo": "Negro",
+         "talla": "S",
+         "marca": "Alfredo Martinez",
+         "cantidad": 5,
+         "precio": 35
+      },
+      {
+         "producto": "Vestido corto con dobladillo redondeado",
+         "categoria": "Franela",
+         "modelo": "Negro",
+         "talla": "S",
+         "marca": "Carolina Herrera",
+         "cantidad": 5,
+         "precio": 200
+      },
+      {
+         "producto": "Minivestido de escote corazón con corazon fruncido",
+         "categoria": "Franela",
+         "modelo": "Blanco",
+         "talla": "S",
+         "marca": "Carolina Herrera",
+         "cantidad": 5,
+         "precio": 300
+      },
+      {
+         "producto": "Top Crop",
+         "categoria": "Franela",
+         "modelo": "Amarillo",
+         "talla": "S",
+         "marca": "Shein",
+         "cantidad": 10,
+         "precio": 10
+      },
+      {
+         "producto": "Top Crop",
+         "categoria": "Franela",
+         "modelo": "Rosado",
+         "talla": "S",
+         "marca": "Shein",
+         "cantidad": 10,
+         "precio": 10
+      },
+      {
+         "producto": "Franela de vestir",
+         "categoria": "Franela",
+         "modelo": "Negro",
+         "talla": "M",
+         "marca": "Apolo",
+         "cantidad": 15,
+         "precio": 18
+      },
+      {
+         "producto": "Camisa de vestir",
+         "categoria": "Franela",
+         "modelo": "Verde",
+         "talla": "M",
+         "marca": "Armani",
+         "cantidad": 8,
+         "precio": 22
+      },
+      {
+         "producto": "Camisa de vestir",
+         "categoria": "Franela",
+         "modelo": "Rojo",
+         "talla": "M",
+         "marca": "Boss",
+         "cantidad": 10,
+         "precio": 20
+      },
+      {
+         "producto": "Camisa de vestir",
+         "categoria": "Franela",
+         "modelo": "Vinotinto",
+         "talla": "L",
+         "marca": "Boss",
+         "cantidad": 10,
+         "precio": 20
+      },
+      {
+         "producto": "Blue-jean",
+         "categoria": "Pantalon",
+         "modelo": "Azul",
+         "talla": "16",
+         "marca": "Uniqlo",
+         "cantidad": 16,
+         "precio": 16
+      },
+      {
+         "producto": "Pantalon de vestir",
+         "categoria": "Pantalon",
+         "modelo": "Gris",
+         "talla": "18",
+         "marca": "Hollister",
+         "cantidad": 15,
+         "precio": 18
+      },
+      {
+         "producto": "Pantalon de vestir",
+         "categoria": "Pantalon",
+         "modelo": "Marron",
+         "talla": "20",
+         "marca": "Levi's",
+         "cantidad": 10,
+         "precio": 20
+      },
+      {
+         "producto": "Jeans",
+         "categoria": "Pantalon",
+         "modelo": "Azul ",
+         "talla": "16",
+         "marca": "Tommy Hilfiger",
+         "cantidad": 15,
+         "precio": 20
+      },
+      {
+         "producto": "Jeans",
+         "categoria": "Pantalon",
+         "modelo": "Gris",
+         "talla": "16",
+         "marca": "Tommy Hilfiger",
+         "cantidad": 15,
+         "precio": 20
+      },
+      {
+         "producto": "Jogger",
+         "categoria": "Pantalon",
+         "modelo": "Gris",
+         "talla": "18",
+         "marca": "Nike",
+         "cantidad": 18,
+         "precio": 18
+      },
+      {
+         "producto": "Jogger",
+         "categoria": "Pantalon",
+         "modelo": "Negro",
+         "talla": "18",
+         "marca": "Nike",
+         "cantidad": 20,
+         "precio": 18
+      },
+      {
+         "producto": "Nike Sportwear Club Fleece",
+         "categoria": "Pantalon",
+         "modelo": "Azul",
+         "talla": "16",
+         "marca": "Nike",
+         "cantidad": 15,
+         "precio": 14
+      }
+   ]
+}
